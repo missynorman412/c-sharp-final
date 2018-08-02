@@ -1,0 +1,14 @@
+1, mow, edge and trim, 1/1/11, v, h,none
+2, Bathe dog, Take tory, 4/17/2016, c, l,sun
+3, car, wash and detail, 1/1/11, c, h,none
+4,2, output,1/5/1955,c, h,none
+5,2, text, 1/1/11,c, N,none
+6,2, text, 1/1/11, C, N,none
+7,2,3, 1/1/11, V, N,snow
+8,2,3, 1/1/11, P, N,snow
+9,2,3, 1/1/11, P, H, snow
+10,3,5,1/1/2011,C,H,none
+11,3,5,1/12/2025,P,N,none
+12,c,Same ,4/20/2018,c,h,sun
+13,c,Same ,4/20/2018,P,h,sun
+14,c,3,4/19/2018,C,N,none

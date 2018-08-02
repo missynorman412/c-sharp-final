@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\Final\Final\bin\Debug\ImportDB.mdf
+C:\Users\Acer\source\repos\Final\Final\bin\Debug\ImportDB_log.ldf
+C:\Users\Acer\source\repos\Final\Final\bin\Debug\Final.exe.config
+C:\Users\Acer\source\repos\Final\Final\bin\Debug\Final.exe
+C:\Users\Acer\source\repos\Final\Final\bin\Debug\Final.pdb
+C:\Users\Acer\source\repos\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\Acer\source\repos\Final\Final\obj\Debug\Final.Form1.resources
+C:\Users\Acer\source\repos\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\Acer\source\repos\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Final\Final\obj\Debug\Final.exe
+C:\Users\Acer\source\repos\Final\Final\obj\Debug\Final.pdb
